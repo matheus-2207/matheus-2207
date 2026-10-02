@@ -70,6 +70,17 @@ Portfólio responsivo em HTML, CSS e JavaScript, com apresentação, formação,
 </p>
 
 
+
+## 🐍 Meu gráfico de contribuições
+
+<!-- Cobrinha animada: gerada pelo workflow .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheus-2207/matheus-2207/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheus-2207/matheus-2207/output/github-snake.svg"/>
+    <img alt="Cobrinha animada percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/matheus-2207/matheus-2207/output/github-snake.svg"/>
+  </picture>
+</p>
 ---
 
 <p align="center">
