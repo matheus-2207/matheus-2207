@@ -21,11 +21,11 @@
     <td width="70%" valign="top">
       <h3>📊 Meu GitHub</h3>
       <p align="center">
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheus-2207&show_icons=true&theme=radical&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Matheus" />
-        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-2207&layout=compact&theme=radical&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Matheus" />
+        <img width="260" src="https://github-readme-stats.vercel.app/api?username=matheus-2207&show_icons=true&theme=radical&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Matheus" />
+        <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-2207&layout=compact&theme=radical&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Matheus" />
       </p>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-2207&theme=radical&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Matheus no GitHub" />
+        <img width="540" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-2207&theme=radical&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Matheus no GitHub" />
       </p>
     </td>
   </tr>
