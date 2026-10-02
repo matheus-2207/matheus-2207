@@ -42,7 +42,7 @@
 
 ### 🍪 [Loja de Bolachas](https://github.com/matheus-2207/Loja-de-Bolachas)
 Loja virtual de bolachas artesanais construída com **Next.js, TypeScript, Prisma e PostgreSQL**, com catálogo, carrinho, gestão de produtos e pedidos e fluxo de checkout com continuidade pelo WhatsApp.
-`TypeScript` · `IA / LLM`
+`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL`
 
 ### 💬 [Social Media for Devs](https://github.com/matheus-2207/Social-Media-for-Devs)
 Rede social para desenvolvedores compartilharem código, tirarem dúvidas e discutirem tecnologias.
@@ -54,7 +54,7 @@ Site demonstrativo responsivo para confeitaria artesanal, com catálogo filtráv
 
 ### 📄 [Matheus Machado – Portfólio](https://github.com/matheus-2207/Matheus-Machado)
 Portfólio responsivo em HTML, CSS e JavaScript, com apresentação, formação, competências, projetos e currículo para download.
-`HTML` · `CSS`
+`HTML` · `CSS` · `JavaScript`
 
 ---
 
