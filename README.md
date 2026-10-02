@@ -24,16 +24,16 @@
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🚀 Projetos em destaque
 
 ### 🍪 [Loja de Bolachas](https://github.com/matheus-2207/Loja-de-Bolachas)
-E-commerce moderno desenvolvido em **TypeScript**, integrado com um **LLM Smart Gateway** que oferece um assistente virtual inteligente para tirar dúvidas dos clientes.
+Loja virtual de bolachas artesanais construída com **Next.js, TypeScript, Prisma e PostgreSQL**, com catálogo, carrinho, gestão de produtos e pedidos e fluxo de checkout com continuidade pelo WhatsApp.
 `TypeScript` · `IA / LLM`
 
 ### 💬 [Social Media for Devs](https://github.com/matheus-2207/Social-Media-for-Devs)
@@ -49,11 +49,11 @@ Rede social para desenvolvedores compartilharem código, tirarem dúvidas e disc
 `Next.js` · `Prisma` · `PostgreSQL`
 
 ### 🍬 [Doce Encanto](https://github.com/matheus-2207/Doce-encanto)
-Landing page responsiva para uma loja fictícia de doces artesanais, com foco em design.
+Site demonstrativo responsivo para confeitaria artesanal, com catálogo filtrável, sacola persistente e resumo do pedido.
 `HTML` · `CSS` · `JavaScript`
 
 ### 📄 [Matheus Machado – Portfólio](https://github.com/matheus-2207/Matheus-Machado)
-Meu currículo transformado em um site.
+Portfólio responsivo em HTML, CSS e JavaScript, com apresentação, formação, competências, projetos e currículo para download.
 `HTML` · `CSS`
 
 ---
@@ -61,16 +61,16 @@ Meu currículo transformado em um site.
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matheus-2207&show_icons=true&theme=radical&hide_border=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-2207&layout=compact&theme=radical&hide_border=true&locale=pt-br" />
+  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=matheus-2207&show_icons=true&theme=radical&hide_border=true&locale=pt-br" />
+  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-2207&layout=compact&theme=radical&hide_border=true&locale=pt-br" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-2207&theme=radical&hide_border=true&locale=pt_BR" />
+  <img alt="Sequência de contribuições no GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-2207&theme=radical&hide_border=true&locale=pt_BR" />
 </p>
 
 ---
 
 <p align="center">
-  💬 Vamos conversar? Me chama no <a href="https://www.linkedin.com/in/matheus-machado-560680384/">LinkedIn</a> ou no <a href="https://wa.me/5541996550182">WhatsApp</a>!
+  💬 Vamos conversar? Me chama no <a href="https://www.linkedin.com/in/matheus-machado-560680384/">LinkedIn</a> ou no <a href="https://wa.me/5541996550283">WhatsApp</a>!
 </p>
