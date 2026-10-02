@@ -1,7 +1,5 @@
-<h1 align="center">Olá, eu sou o Matheus Machado 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Estudante+de+Engenharia+de+Software;Aprendiz+de+Infraestrutura+de+TI;Construindo+projetos+e+aprendendo" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/matheus-2207/matheus-2207/main/assets/profile-banner.svg" alt="Matheus Machado — Estudante de Engenharia de Software e Aprendiz de Infraestrutura de TI" width="100%" />
 </p>
 
 <p align="center">
