@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Matheus Machado — Engenharia de Software e Infraestrutura de TI</title>
+  <desc id="desc">Banner de perfil em degradê azul escuro, com ondas abstratas e o nome Matheus Machado ao centro.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#101b20"/>
+      <stop offset=".48" stop-color="#172c3c"/>
+      <stop offset="1" stop-color="#315f9f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="24%" r="70%">
+      <stop offset="0" stop-color="#68a8ff" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#68a8ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#54d6d0" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#54d6d0" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#54d6d0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <rect width="1280" height="300" fill="url(#glow)"/>
+  <path d="M0 207 C180 181 312 222 489 201 C700 176 870 183 1048 209 C1140 223 1213 229 1280 224 V300 H0Z" fill="#14202b" opacity=".72"/>
+  <path d="M0 237 C193 219 342 238 528 225 C744 209 920 230 1076 246 C1151 254 1215 260 1280 255 V300 H0Z" fill="#0d141d" opacity=".92"/>
+  <path d="M0 263 C203 246 378 262 554 252 C770 239 976 255 1117 272 C1180 279 1234 282 1280 280 V300 H0Z" fill="#0b1017"/>
+  <path d="M168 64H1112" stroke="white" stroke-opacity=".08"/>
+  <path d="M230 190H1050" stroke="url(#line)" stroke-width="1.5"/>
+  <circle cx="178" cy="64" r="2" fill="#6ae0d4" opacity=".7"/>
+  <circle cx="1112" cy="64" r="2" fill="#8fbcff" opacity=".8"/>
+  <g text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" fill="#f5f8fc">
+    <text x="640" y="139" font-size="60" font-weight="700" letter-spacing="-1.6">Matheus Machado</text>
+    <text x="640" y="177" font-size="21" font-weight="500" fill="#e2eaf5">Estudante de Engenharia de Software <tspan fill="#68d3cf">•</tspan> Aprendiz de Infraestrutura de TI</text>
+  </g>
+</svg>
