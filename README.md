@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Matheus Machado 👋</h1>
 
 <p align="center">
-  <img src="assets/profile-banner.gif" alt="Banner animado de Matheus Machado, estudante de Engenharia de Software" width="960" />
+  <img src="assets/profile-banner.gif?v=2" alt="Banner animado de Matheus Machado, estudante de Engenharia de Software" width="960" />
 </p>
 
 <p align="center">
