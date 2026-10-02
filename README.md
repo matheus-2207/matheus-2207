@@ -69,6 +69,13 @@ Portfólio responsivo em HTML, CSS e JavaScript, com apresentação, formação,
   <img alt="Sequência de contribuições no GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-2207&theme=radical&hide_border=true&locale=pt_BR" />
 </p>
 
+
+## 📈 Atividade recente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-2207&theme=dracula&hide_border=true&area=true" alt="Gráfico de atividade recente no GitHub" />
+</p>
+
 ---
 
 <p align="center">
