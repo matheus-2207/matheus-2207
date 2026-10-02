@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-machado-560680384/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.instagram.com/vendra.matt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://wa.me/5541996550283"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> <a href="mailto:matheusvm2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/matheus-machado-560680384/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.instagram.com/vendra.matt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://wa.me/5541996550283"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> <a href="mailto:matheusvm2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <img src="https://komarev.com/ghpvc/?username=matheus-2207&color=8A2BE2&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Contador de visualizações do perfil" />
 </p>
 
 ---
@@ -69,12 +69,6 @@ Portfólio responsivo em HTML, CSS e JavaScript, com apresentação, formação,
   <img alt="Sequência de contribuições no GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-2207&theme=radical&hide_border=true&locale=pt_BR" />
 </p>
 
-
-## 📈 Atividade recente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-2207&theme=dracula&hide_border=true&area=true" alt="Gráfico de atividade recente no GitHub" />
-</p>
 
 ---
 
