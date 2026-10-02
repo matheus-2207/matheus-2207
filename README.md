@@ -23,17 +23,16 @@
 
 ## 🛠️ Tecnologias
 
-<p align="left">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+**Linguagens e fundamentos**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,html,css&theme=dark&perline=6" alt="JavaScript, TypeScript, C, C++, HTML5 e CSS3" />
+</p>
+
+**Frameworks, banco de dados e ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,prisma,postgres,git,github&theme=dark&perline=6" alt="Next.js, Prisma, PostgreSQL, Git e GitHub" />
 </p>
 
 ---
@@ -68,7 +67,6 @@ Portfólio responsivo em HTML, CSS e JavaScript, com apresentação, formação,
 <p align="center">
   <img alt="Sequência de contribuições no GitHub" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-2207&theme=radical&hide_border=true&locale=pt_BR" />
 </p>
-
 
 
 ## 🐍 Meu gráfico de contribuições
