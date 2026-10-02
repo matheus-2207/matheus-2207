@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matheus-2207/matheus-2207/main/assets/profile-banner.svg?v=2" alt="Matheus Machado — Estudante de Engenharia de Software e Aprendiz de Infraestrutura de TI" width="100%" />
+  <img src="https://raw.githubusercontent.com/matheus-2207/matheus-2207/main/assets/profile-banner-purple.svg" alt="Matheus Machado — Estudante de Engenharia de Software e Aprendiz de Infraestrutura de TI" width="100%" />
 </p>
 
 <p align="center">
