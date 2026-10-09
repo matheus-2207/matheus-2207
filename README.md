@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Aprendiz+de+Infraestrutura+de+TI;Explorando+desenvolvimento+web+e+IA" alt="Estudante de Engenharia de Software, aprendiz de infraestrutura e explorando desenvolvimento web e IA" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/matheus-machado-560680384/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.instagram.com/vendra.matt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://wa.me/5541996550283"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> <a href="mailto:matheusvm2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <img src="https://komarev.com/ghpvc/?username=matheus-2207&color=8A2BE2&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Contador de visualizações do perfil" />
 </p>
 
