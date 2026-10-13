@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/matheus-2207/matheus-2207/main/assets/profile-banner-purple.svg" alt="Matheus Machado — Estudante de Engenharia de Software e Aprendiz de Infraestrutura de TI" width="100%" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Aprendiz+de+Infraestrutura+de+TI;Explorando+desenvolvimento+web+e+IA" alt="Estudante de Engenharia de Software, aprendiz de infraestrutura e explorando desenvolvimento web e IA" />
-</p>
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif" alt="Animação Chill Mario, por Pixel Jeff" width="800" />
