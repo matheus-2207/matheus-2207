@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matheus-2207/matheus-2207/99a5558615e70d1677f1e552ca8e239444646d1b/assets/profile-banner-purple.svg" alt="Matheus Machado — Estudante de Engenharia de Software e Aprendiz de Infraestrutura de TI" width="100%" />
-</p>
-
-<p align="center">
   <a href="mailto:matheusvm2019@gmail.com"><img src="https://img.shields.io/badge/E--mail-7652A6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
   <a href="https://www.linkedin.com/in/matheus-machado-560680384/"><img src="https://img.shields.io/badge/LinkedIn-553978?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wa.me/5541996550283"><img src="https://img.shields.io/badge/WhatsApp-553978?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
