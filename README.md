@@ -3,13 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-machado-560680384/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.instagram.com/vendra.matt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://wa.me/5541996550283"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> <a href="mailto:matheusvm2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
-  
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif" alt="Animação Chill Mario, por Pixel Jeff" width="800" />
+  <a href="mailto:matheusvm2019@gmail.com"><img src="https://img.shields.io/badge/E--mail-7652A6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+  <a href="https://www.linkedin.com/in/matheus-machado-560680384/"><img src="https://img.shields.io/badge/LinkedIn-553978?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5541996550283"><img src="https://img.shields.io/badge/WhatsApp-553978?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 <p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif" alt="Animação Chill Mario, por Pixel Jeff" width="800" />
+</p>
 
 ---
 
@@ -82,8 +83,13 @@ Portfólio responsivo em HTML, CSS e JavaScript, com apresentação, formação,
     <img alt="Cobrinha animada percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/matheus-2207/matheus-2207/output/github-snake.svg"/>
   </picture>
 </p>
+
 ---
 
 <p align="center">
-  💬 Vamos conversar? Me chama no <a href="https://www.linkedin.com/in/matheus-machado-560680384/">LinkedIn</a> ou no <a href="https://wa.me/5541996550283">WhatsApp</a>!
+  💬 Vamos conversar? Me chama por <a href="mailto:matheusvm2019@gmail.com">e-mail</a> ou no <a href="https://wa.me/5541996550283">WhatsApp</a>!
+</p>
+
+<p align="center">
+  Você também me encontra no <a href="https://www.instagram.com/vendra.matt/">Instagram · @vendra.matt</a>.
 </p>
