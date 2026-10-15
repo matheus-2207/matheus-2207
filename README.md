@@ -25,8 +25,6 @@
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Aperto de mãos" width="28" height="28" /> Estou aberto a oportunidades, projetos colaborativos e networking.</li>
 </ul>
 
-<p><em>Emojis animados: <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Animated Fluent Emojis</a>.</em></p>
-
 ---
 
 ## 🛠️ Tecnologias
