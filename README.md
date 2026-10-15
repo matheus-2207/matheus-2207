@@ -16,12 +16,16 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software**
-- 🖥️ Aprendiz de **Infraestrutura de TI**
-- 📍 **Curitiba – PR, Brasil**
-- 🌱 Construindo projetos e aprendendo algo novo todos os dias
-- 🤖 Interessado em desenvolvimento web moderno e integração com **IA / LLMs**
-- 🤝 Aberto a oportunidades, projetos colaborativos e networking
+<ul>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Mão acenando" width="28" height="28" /> Olá! Sou Matheus, estudante de <strong>Engenharia de Software</strong>.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Notebook" width="28" height="28" /> Sou aprendiz de <strong>Infraestrutura de TI</strong>.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Alfinete de localização" width="28" height="28" /> Moro em <strong>Curitiba, PR, Brasil</strong>.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Cérebro" width="28" height="28" /> Estou construindo projetos e aprendendo algo novo todos os dias.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computador" width="28" height="28" /> Tenho interesse em desenvolvimento web moderno e <strong>IA / LLMs</strong>.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Aperto de mãos" width="28" height="28" /> Estou aberto a oportunidades, projetos colaborativos e networking.</li>
+</ul>
+
+<p><em>Emojis animados: <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis">Animated Fluent Emojis</a>.</em></p>
 
 ---
 
